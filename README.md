@@ -2,7 +2,7 @@
 ## About
 Simple **.NET 6** and **C#** console application to manage a parking lot.
 
-## Features:
+## Features
 - Add car to parking lot by requiring it's license plate
 - Remove car from parking lot, showing total price according to how many hours car was parked
 - List license plates of cars in parking lot
