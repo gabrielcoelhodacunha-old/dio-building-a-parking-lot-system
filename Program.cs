@@ -1,3 +1,5 @@
 ﻿using SistemaDeEstacionamento.Models;
 
-Estacionamento estacionamento = new Estacionamento();
+Sistema sistema = new Sistema();
+
+sistema.Inicializar();
